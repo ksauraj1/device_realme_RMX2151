@@ -46,5 +46,5 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.surface_flinger.supports_background_blur=1 \
     ro.sf.blurs_are_expensive=1
-    ro.cipher.maintainer=₴₳ɄⱤ₳J
+    ro.cipher.maintainer=Sauraj
 
